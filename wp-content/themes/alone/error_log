@@ -1,0 +1,59 @@
+[01-Sep-2020 22:29:42 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[12-Sep-2020 14:59:40 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[10-Oct-2020 21:08:55 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[12-Nov-2020 08:32:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[06-Mar-2021 19:24:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[11-Mar-2021 06:27:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[15-Mar-2021 00:34:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[12-May-2021 06:25:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[15-May-2021 17:06:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[18-May-2021 00:48:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[22-May-2021 22:33:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/dabdrt/public_html/wp-content/themes/alone/404.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/404.php on line 6
+[25-May-2021 23:37:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[31-May-2021 15:01:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[06-Jun-2021 04:47:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[08-Jun-2021 15:34:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[08-Jun-2021 18:07:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13
+[29-Jun-2021 05:07:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home2/dabdrt/public_html/wp-content/themes/alone/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/dabdrt/public_html/wp-content/themes/alone/index.php on line 13

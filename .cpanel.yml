@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/yetimnewcom/public_html/remote/
+    - export DEPLOYPATH=/home/yetimnewcom/public_html/
     - /bin/cp -R * $DEPLOYPATH
  
